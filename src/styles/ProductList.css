@@ -1,0 +1,204 @@
+.product-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.product-item {
+  list-style: none;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-right: 50px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  width: 50%;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.search-button {   
+  padding: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+
+}
+
+.edit-button {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+  padding: 5px 10px !important;
+  background-color: #ece2e3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+.add-product-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-product-button:hover {
+  background-color: #218838;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page-button {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+}
+
+.page-button:hover {
+  background-color: #0056b3;
+}
+
+.page-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.page-button.active {
+  background-color: #0056b3;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .product-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.product-item {
+  list-style: none;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-right: 50px;
+}
+
+.edit-button {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+  padding: 5px 10px !important;
+  background-color: #ece2e3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+.add-product-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-product-button:hover {
+  background-color: #218838;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.page-button {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.page-button:hover {
+  background-color: #f0f0f0;
+} */
